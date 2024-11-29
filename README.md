@@ -1,4 +1,4 @@
-
+## Duckling
 
 ###### HXP-DUCKY Android Crash Tool.
 ***
@@ -67,4 +67,15 @@ bash duckling.sh
 ## ScreenShots :- 
   ![Screenshot_20220613-103741_zoom](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiH-R8A1LaKFPCojoSC_E9f5YB6FuNniRVbeTH8R_FiLbhV2xT2xkbKMoQj3LN20JHxsRKhT-CmbOYKE4-L7-YMf3VL3Rc5GQECGn2_szI7OaKmXRkaF8-z_RXu1EYcd4hB8zLYEHlxzwie7NUDl9JGuovn4UeuCbTZyDA6iDnohAAdVVmOZxoKZxP49Cv/s960/Screenshot_20230913-024448.png)
 
- 
+
+
+# DISCLAIMER ⚠️
+This tool is only created for educational purposes
+
+Iam not responsible for any actions took by users
+
+Iam not responsible for any DAMAGE caused to people using this script
+
+Im not responsible for any DAMAGE that you might encounter. Use At own risk.
+
+## Cyberalytics Hacklytics labs 
