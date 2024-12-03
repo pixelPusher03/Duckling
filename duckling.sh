@@ -149,9 +149,9 @@ clear
 echo
 echo -e '\e[92m 
 
-          __       __        __           
-|__| \_/ |__)     |  \ |  | /  ` |__/ \ / 
-|  | / \ |    ___ |__/ \__/ \__, |  \  |  
+ __        __           
+|  \ |  | /  ` |__/ |
+|__/ \__/ \__, |  \ |__
 '
 
 echo " "
@@ -191,21 +191,21 @@ echo -e "\e[93m                  CALL ME \e[92mThe developer" | pv -qL 10
 echo -e "\e[93m             ADMIN OF \e[92mSM TECHNOLOGIES" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         Keep Supporting And Join Us " | pv -qL 10
-echo -e "\e[93m         Join Us:\e[92m https://www.youtube.com/@smtechmods\e[0m" | pv -qL 10
+echo -e "\e[93m         Join Us:\e[92m https://www.youtube.com/@the_developer03\e[0m" | pv -qL 10
 echo -e "\e[92m                BYEE.............." | pv -qL 10
 sleep 6.0
 banner
 menu
 }
 upd(){
-if [ -d "$HOME/HXP-Ducky" ];
+if [ -d "$HOME/Duckling" ];
 then
 cd $HOME
-rm -rf HXP-Ducky
-elif [ -d "$HOME/HXP-Ducky" ];
+rm -rf Duckling
+elif [ -d "$HOME/Duckling" ];
 then
 cd $HOME
-rm -rf HXP-Ducky
+rm -rf Duckling
 else
 echo
 exit 1
@@ -216,7 +216,7 @@ echo -e "         \e[96mUPDATE IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/hackerxphantom/HXP-Duck 2> /dev/null; do 
+while git clone https://github.com/pixelPusher03/Duckling 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
@@ -227,8 +227,8 @@ echo
 printf "\e[96m           UPDATE SUCCESSFULL (LATEST VERSION)..!\e[0m"
 sleep 2.0
 cd $HOME
-cd HXP-Duck
-bash hxp_ducky.sh
+cd Duckling
+bash duckling.sh
 }
 banner
 menu
